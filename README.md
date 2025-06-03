@@ -71,8 +71,8 @@
 | ✔️ Microsoft Azure Cloud Fundamentals   | [👉 Click](#)           |
 | ✔️ Google Data Analytics                | [👉 Click](#)           |
 
-🧩 Solved 100+ LeetCode problems, showcasing strong DSA & problem-solving skills
-🏛️ Participated in Google Developer Group (GDG) and TCS workshops at IIT Kharagpur
+- 🧩 Solved 100+ LeetCode problems, showcasing strong DSA & problem-solving skills
+- 🏛️ Participated in Google Developer Group (GDG) and TCS workshops at IIT Kharagpur
 
 ---
 
