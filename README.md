@@ -28,7 +28,7 @@
 
 - 📫 How to reach me: [anindyamaity2004@gmail.com](mailto:anindyamaity2004@gmail.com)
 - 📄 Explore My [RESUME](https://drive.google.com/file/d/1vZUldNMKYTDbJcapcxIeS8u1nxjNxgRm/view?usp=sharing)
-- 🌐 Visit My Portfolio: Currently Under Development
+- 🌐 Visit My Portfolio: [Currently Under Development]
 
 ---
 
