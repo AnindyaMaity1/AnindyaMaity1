@@ -14,7 +14,23 @@
 - Currently Building: **Hardwork**
 - Experimenting with: 🤖 `AI Agents` • 🎙️ `Voice Interfaces` • 📊 `Realtime Flask Dashboards` • 🌐 `Interactive Web UIs` • 🎨 `Creative Web Animations`.
 - Learning: 🧪 `Flask` • 🧠 `Prompt Engineering` • 🔗 `WebSockets` • 🔒 `Secure APIs` • 🐳 `Docker` • 🌿 `Spring`.
-- 💬 Ask me about: `Artificial Intelligence`, `Machine Learning`, `Python`, `C`, `Java`, `MATLAB`, `Flask`, `Streamlit`, `TensorFlow`, `OpenCV`, `React.js`, `Node.js`, `Git`, `System Design`, `SQL Server Management Studio`, `Oracle 10g`.
+- Ask me about:
+1. 🤖 `Artificial Intelligence`  
+2. 📊 `Machine Learning`  
+3. 🐍 `Python`  
+4. 💻 `C`  
+5. ☕ `Java`  
+6. 📈 `MATLAB`  
+7. 🧪 `Flask`  
+8. 📺 `Streamlit`  
+9. 🔢 `TensorFlow`  
+10. 👁️‍🗨️ `OpenCV`  
+11. ⚛️ `React.js`  
+12. 🌐 `Node.js`  
+13. 🛠️ `Git`  
+14. 🧩 `System Design`  
+15. 🗃️ `SQL Server`  
+16. 🏛️ `Oracle 10g`
 - 📫 How to reach me: [anindyamaity2004@gmail.com](mailto:anindyamaity2004@gmail.com)
 - 📄 Explore My [RESUME]([https://your-resume-link.com](https://drive.google.com/file/d/1vZUldNMKYTDbJcapcxIeS8u1nxjNxgRm/view?usp=sharing))
 - 🌐 Visit My Portfolio: Currently Under Development
