@@ -55,7 +55,7 @@
 
 ### 🎯 Currently Working On
 - 🔬 A **Smart Healthcare AI** tool with **Predictive Analysis & Voice Chatbot**
-- 🧠 A **Learning Assistant Bot** powered by OpenAI + Flask Web UI
+- 🧠 A **ChronicCare Copilot+** powered by AI + Flask
 - 🌍 An open-source **Tech Learning Hub** for students
 
 ---
@@ -65,9 +65,11 @@
 - 🧠 Completed AI and Python certifications from LinkedIn Learning and NPTEL
 - 🧾 Certified in:
 
-    ✔️ IBM Machine Learning & AI Engineering
-    ✔️ Microsoft Azure Cloud Fundamentals
-    ✔️ Google Data Analytics
+| Topic                             | Certificates                |
+|----------------------------------|-----------------------------|
+| ✔️ IBM Machine Learning & AI Engineering | [👉 Click](#)           |
+| ✔️ Microsoft Azure Cloud Fundamentals   | [👉 Click](#)           |
+| ✔️ Google Data Analytics                | [👉 Click](#)           |
 
 🧩 Solved 100+ LeetCode problems, showcasing strong DSA & problem-solving skills
 🏛️ Participated in Google Developer Group (GDG) and TCS workshops at IIT Kharagpur
