@@ -1,98 +1,98 @@
 <!-- 🐙 Welcome To My GitHub Profile 🐙 -->
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">Anindya Maity</span> 👨‍💻</h1>
-<h3 align="center">Web Developer | AI Explorer | ML Enthusiast | Tech Innovator</h3>
+<h1 align="center">
+  Hi there 👋, I'm <span style="color:#00BFFF;">Anindya Maity</span> 👨‍💻
+</h1>
+<h3 align="center">Web Dev ⚡ AI Explorer 🤖 | Innovator 🚀 | Dreamer 💡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+My+Digital+Space!;Building+Future+Tech+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Welcome+to+My+Tech+Command+Center!;Bringing+AI+and+Web+Together.;Exploring+Code,+Creativity+and+Coffee+☕" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧩 The Dev Dashboard 📟
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=spiderm&theme=radical&data=followers,repositories,stars,commits" alt="GitHub Widget" />
+</p>
 
-- 🔭 Currently Building: `Hardwork` 💪
-- 🧪 Experimenting With:
-  - 🤖 `AI Agents`
-  - 🎙️ `Voice Interfaces`
-  - 📊 `Realtime Flask Dashboards`
-  - 🌐 `Interactive Web UIs`
-  - 🎨 `Creative Web Animations`
-- 📘 Learning:
-  - 🧠 `Prompt Engineering`
-  - 🐳 `Docker`
-  - 🌿 `Spring`
-  - 🔗 `WebSockets`
-  - 🔒 `Secure APIs`
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=spiderm&bg_color=000000&color=39FF14&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
-### 🛠️ My Toolbox
-
-| 💡 Tech & Languages | 🧠 AI/ML & Tools | 🧪 Frameworks | 📦 Databases & Cloud |
-|---------------------|------------------|--------------|----------------------|
-| `Python`, `C`, `Java`, `C++`, `HTML`, `CSS`, `JS` | `TensorFlow`, `OpenCV`, `SciKit-Learn`, `MATLAB` | `Flask`, `Streamlit`, `React`, `Node.js`, `Bootstrap` | `SQLite`, `PostgreSQL`, `Oracle 10g`, `Google Cloud`, `Azure` |
+> ⚙️ *Dynamic insights. Real-time activity. Your own terminal UI, right inside your GitHub.*
 
 ---
 
-## 📌 Featured Projects
-
-| 🚀 Project | ⚙️ Stack | 📋 Summary |
-|-----------|---------|------------|
-| 🧠 `ChronicCare Copilot+` | Flask, SQLite, GPT | AI-powered chronic health assistant w/ vitals tracking |
-| 🔒 `SecureChain DApp` | Solidity, Web3.js, IPFS | Blockchain DApp for secure decentralized file sharing |
-| 📈 `CryptoTrendX` | Python, Dash, Binance API | Live crypto trends, analysis & visual dashboards |
-| 🎙️ `VoiceHealthBot` *(Beta)* | SpeechRecognition, OpenAI API | Voice-interactive health recommendations |
+## 🚀 About Me
+- 💡 Building: `Hardwork`, `AI Assistants`, `Voice Interfaces`
+- 🔬 Exploring: `Prompt Engineering`, `Flask`, `WebSockets`, `Docker`, `Spring`
+- 🌱 Currently Learning: `Secure APIs`, `AI Agents`, `Realtime Dashboards`
+- 🎯 Goal: Make tech human-centric, secure, and scalable.
 
 ---
 
-## 📜 Certifications & Achievements
+## 🧠 Tech Arsenal
 
-- 🥇 **1st Place** – 3-Minute Scholarly Thesis (eHaCON 2025)
-- 🧠 **LinkedIn/NPTEL Certified** – AI & Python
-- 🏅 **100+ LeetCode** problems solved
-- 🎓 **Active in GDG & TCS Workshops** at IIT KGP
-
-| 🌟 Topic | 📄 Certificate |
-|---------|----------------|
-| IBM Machine Learning & AI | [👉 Click](#) |
-| Microsoft Azure Fundamentals | [👉 Click](#) |
-| Google Data Analytics | [👉 Click](#) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nodejs,flask,git,github,docker,mysql,postgres,linux,vscode" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏗️ Featured Projects
+
+| 🚀 Project | 🔧 Stack | 🧩 Description |
+|-----------|---------|----------------|
+| 🧠 **ChronicCare Copilot+** | Flask + SQLite + GPT | Real-time AI health co-pilot with vitals & voice assistant |
+| 🔐 **SecureChain DApp** | Solidity + IPFS + Web3.js | Decentralized file security & sharing |
+| 📊 **CryptoTrendX** | Python + Dash + Binance API | Live crypto trend analytics |
+| 🗣️ **VoiceHealthBot** *(beta)* | OpenAI + SpeechRecognition | Talk to your health dashboard! |
+
+---
+
+## 🎖️ Achievements
+
+- 🥇 1st Place – eHaCON 2025 (3MST Thesis)
+- 🧠 AI & Cloud Certified (IBM, Microsoft, Google)
+- 🔢 100+ LeetCode problems cracked
+- 🧩 Contributor to GDG events & TCS Hackathons @ IIT-KGP
+
+---
+
+## 📜 Certifications
+
+| 📚 Course | 🎓 Cert |
+|----------|--------|
+| IBM Machine Learning & AI | [View](#) |
+| Google Data Analytics | [View](#) |
+| Microsoft Azure Fundamentals | [View](#) |
+
+---
+
+## 🔗 Let's Connect!
 
 <p align="center">
   <a href="mailto:anindyamaity2004@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anindya-maity-1744b9258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/__anindya1__?igsh=MWx4Nzd5cTlvb3Rhcw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/anindya-maity-1744b9258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/__anindya1__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧩 GitHub Insights
+## 🧬 GitHub Stats Center
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spiderm&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spiderm&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderm&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spiderm&show_icons=true&theme=midnight-purple" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=spiderm&theme=midnight-purple" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderm&layout=compact&theme=vision-friendly-dark" width="49%" />
 </p>
 
 ---
 
-## 🧠 Fun Fact
+## 💬 Fun Fact
 
-> “In a world full of `console.log()`, be a `Debugger`.” 🐞
-
----
-
-## 📄 Explore More
-
-- 📫 Reach me: [anindyamaity2004@gmail.com](mailto:anindymaity2004@gmail.com)
-- 🗂️ Resume: [Click to View](https://drive.google.com/file/d/1vZUldNMKYTDbJcapcxIeS8u1nxjNxgRm/view?usp=sharing)
-- 🌍 Portfolio: `Coming Soon! Stay Tuned 🚀`
+> “99 bugs in the code. Take one down, patch it around… 127 bugs in the code.” 🐛
 
 ---
 
