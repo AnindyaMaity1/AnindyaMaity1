@@ -40,18 +40,6 @@
 
 ---
 
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidhharthashaw&show_icons=true&theme=algolia&rank_icon=github" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhharthashaw&theme=algolia" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidhharthashaw&theme=tokyonight" />
-</p>
-
----
 
 ### 🎯 Currently Working On
 - 🔬 A **Smart Healthcare AI** tool with **Predictive Analysis & Voice Chatbot**
