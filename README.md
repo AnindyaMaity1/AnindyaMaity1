@@ -80,7 +80,9 @@
 <p align="center">
   <a href="mailto:anindyamaity2004@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/anindya-maity-1744b9258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/__anindya1__?igsh=MWx4Nzd5cTlvb3Rhcw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/__anindya1__?igsh=MWx4Nzd5cTlvb3Rhcw==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=black" />
+</a>
 </p>
 
 ---
