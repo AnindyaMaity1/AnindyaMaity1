@@ -4,7 +4,7 @@
 <h3 align="center"> Web Developer | AI Explorer | ML Enthusiast | Tech Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+Digital+Space!;Building+Future+Tech+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Welcome+to+My+Digital+Space!;Building+Future+Tech+Today" alt="Typing SVG" />
 </p>
 
 ---
