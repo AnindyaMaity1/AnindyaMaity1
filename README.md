@@ -87,15 +87,26 @@
 
 ---
 
-### 🐙 Fun Fact
-<p>
-<code style="font-size: 18px; font-weight: bold;">“In a world full of <span style='color:#a200ff;'>console.log()</span>, dare to be the <span style='color:#FF00AA;'>Debugger</span>.”</code> 🐞
-<br/><br/>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="Cyber Debugging" />
-<br/><br/>
-<i>Debuggers don’t just fix bugs... they decode digital chaos.</i>
+<!-- Bootstrap CSS CDN -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- 🐙 Fun Fact Section -->
+<div class="container my-4">
+  <div class="card shadow-lg border-0 rounded-4">
+    <div class="card-body text-center">
+      <h3 class="card-title mb-3">🐙 <strong>Fun Fact</strong></h3>
+      <p>
+        <code style="font-size: 18px; font-weight: bold;">
+          “In a world full of 
+          <span style="color:#a200ff;">console.log()</span>, 
+          dare to be the 
+          <span style="color:#FF00AA;">Debugger</span>.” 🐞
+        </code>
+      </p>
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+           class="img-fluid rounded-3 my-3" width="320" alt="Cyber Debugging" />
+      <p class="fst-italic text-muted">Debuggers don’t just fix bugs... they decode digital chaos.</p>
+    </div>
+  </div>
 </div>
-</p>
-
-
 ---
