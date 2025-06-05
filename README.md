@@ -75,20 +75,34 @@
 
 ---
 
-### 📫 Connect With Me
+<!-- 📫 Connect With Me -->
+<h3 align="center">📫 <strong>Connect With Me</strong></h3>
 
-<p>
-  <a href="mailto:anindyamaity2004@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anindya-maity-1744b9258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-
-  <a href="https://www.instagram.com/__anindya1__?igsh=MWx4Nzd5cTlvb3Rhcw==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=black" />
-</a>
+<p align="center">
+  <!-- Cartoon Hacker GIF -->
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" 
+       alt="Hacker Clicking Connect" 
+       width="250" 
+       style="border-radius: 12px; margin-bottom: 20px;" />
 </p>
 
----
+<p align="center">
+  <!-- Email Badge -->
+  <a href="mailto:anindyamaity2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/anindya-maity-1744b9258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Instagram Badge -->
+  <a href="https://www.instagram.com/__anindya1__?igsh=MWx4Nzd5cTlvb3Rhcw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
+  </a>
+</p>
+
 
 ### 🐙 Fun Fact
 <p>
