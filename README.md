@@ -1,5 +1,3 @@
-🐙 Welcome To My GitHub Profile 🐙 
-
 <h1 align="center"><span style="color:#00BFFF;">Anindya Maity</span> 👨‍💻 </h1>
 <h3 align="center"> Web Developer | AI Explorer | ML Enthusiast | Tech Innovator</h3>
 
@@ -9,28 +7,73 @@
 
 ---
 
-### 🙋‍♂️ About Me
+<!-- 🙋‍♂️ About Me -->
+<h3 align="center">🙋‍♂️ <strong>About Me</strong></h3>
 
-- Currently Building: **Hardwork**
-- Experimenting with: 🤖 AI Agents • 🎙️ Voice Interfaces • 📊 Realtime Flask Dashboards • 🌐 Interactive Web UIs • 🎨 Creative Web Animations.
-- Learning: 🧪 Flask • 🧠 Prompt Engineering • 🔗 WebSockets • 🔒 Secure APIs • 🐳 Docker • 🌿 Spring.
-- Ask me about:
-  
-| Skill                          | Skill                    | Skill                    |
-|-------------------------------|--------------------------|--------------------------|
-| 🤖 Artificial Intelligence  | 📊 Machine Learning    | 🐍 Python              |
-| 💻 C                        | ☕ Java                 | 📈 MATLAB              |
-| 🧪 Flask                    | 📺 Streamlit           | 🔢 TensorFlow          |
-| 👁️‍🗨️ OpenCV               | ⚛️ React.js           | 🌐 Node.js             |
-| 🛠️ Git                     | 🧩 System Design       | 🗃️ SQL Server         |
-| 🏛️ Oracle 10g              |                          |                          |
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Techie Vibes" />
+</p>
 
-
-- 📫 How to reach me: [anindyamaity2004@gmail.com](mailto:anindyamaity2004@gmail.com)
-- 📄 Explore My [RESUME](https://drive.google.com/file/d/1vZUldNMKYTDbJcapcxIeS8u1nxjNxgRm/view?usp=sharing)
-- 🌐 Visit My Portfolio: [Currently Under Development]
+<ul>
+  <li>🔨 <strong>Currently Building:</strong> <code>Hardwork</code> – one commit at a time.</li>
+  <li>🧪 <strong>Experimenting With:</strong> 🤖 AI Agents • 🎙️ Voice Interfaces • 📊 Realtime Flask Dashboards • 🌐 Interactive Web UIs • 🎨 Creative Web Animations</li>
+  <li>📚 <strong>Learning:</strong> 🧠 Prompt Engineering • 🔗 WebSockets • 🔒 Secure APIs • 🐳 Docker • 🌿 Spring • 🧪 Flask</li>
+</ul>
 
 ---
+
+### 🧠 Ask Me About
+
+<table align="center">
+<tr>
+  <td>🤖 Artificial Intelligence</td>
+  <td>📊 Machine Learning</td>
+  <td>🐍 Python</td>
+</tr>
+<tr>
+  <td>💻 C</td>
+  <td>☕ Java</td>
+  <td>📈 MATLAB</td>
+</tr>
+<tr>
+  <td>🧪 Flask</td>
+  <td>📺 Streamlit</td>
+  <td>🔢 TensorFlow</td>
+</tr>
+<tr>
+  <td>👁️‍🗨️ OpenCV</td>
+  <td>⚛️ React.js</td>
+  <td>🌐 Node.js</td>
+</tr>
+<tr>
+  <td>🛠️ Git</td>
+  <td>🧩 System Design</td>
+  <td>🗃️ SQL Server</td>
+</tr>
+<tr>
+  <td>🏛️ Oracle 10g</td>
+  <td>🖥️ OOP Concepts</td>
+  <td>📂 File Handling</td>
+</tr>
+</table>
+
+---
+
+### 📫 Reach Me
+
+<p align="center">
+  <a href="mailto:anindyamaity2004@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anindya-maity-1744b9258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/__anindya1__" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=black" /></a>
+</p>
+
+---
+
+### 🧾 Docs & Demos
+
+- 📄 <strong>Explore My</strong> <a href="https://drive.google.com/file/d/1vZUldNMKYTDbJcapcxIeS8u1nxjNxgRm/view?usp=sharing" target="_blank"><code>RESUME</code></a>
+- 🌐 <strong>Portfolio:</strong> <em>Coming Soon – Built with Flask, React, and Cyberpunk Energy ⚡</em>
+
 
 ### ⚡ Tech Stack
 
