@@ -87,13 +87,15 @@
 
 ---
 
-🐙 Fun Fact
+### 🐙 Fun Fact
+<p>
 <code style="font-size: 18px; font-weight: bold;">“In a world full of <span style='color:#a200ff;'>console.log()</span>, dare to be the <span style='color:#FF00AA;'>Debugger</span>.”</code> 🐞
 <br/><br/>
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="Cyber Debugging" />
 <br/><br/>
 <i>Debuggers don’t just fix bugs... they decode digital chaos.</i>
 </div>
+</p>
 
 
 ---
