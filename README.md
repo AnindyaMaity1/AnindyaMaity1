@@ -1,6 +1,6 @@
 <!-- 🐙 Welcome To My GitHub Profile 🐙 -->
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">Anindya Maity</span> 👨‍💻 </h1>
+<h1 align="center"><span style="color:#00BFFF;">Anindya Maity</span> 👨‍💻 </h1>
 <h3 align="center"> Web Developer | AI Explorer | ML Enthusiast | Tech Innovator</h3>
 
 <p align="center">
