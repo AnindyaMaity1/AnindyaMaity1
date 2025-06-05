@@ -87,8 +87,19 @@
 
 ---
 
-### 🎉 Fun Fact
+🐙 Fun Fact
+<!-- <div align="center" style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" /> -->
+<br/><br/>
 
-> “In a world full of console.log(), be a Debugger.” 🐞
+<code style="font-size: 18px; font-weight: bold;">“In a world full of <span style='color:#a200ff;'>console.log()</span>, dare to be the <span style='color:#FF00AA;'>Debugger</span>.”</code> 🐞
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="Cyber Debugging" />
+<br/><br/>
+
+<i>Debuggers don’t just fix bugs... they decode digital chaos.</i>
+
+</div>
 
 ---
