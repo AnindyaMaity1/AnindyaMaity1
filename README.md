@@ -117,7 +117,7 @@
 
 ## 📈 GitHub Activity Graph
 
-![Anindya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anindyamaity&theme=react-dark)
+![Anindya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anindyamaity1&theme=react-dark)
 
 ---
 
