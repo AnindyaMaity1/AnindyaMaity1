@@ -130,7 +130,3 @@
 **_Thank you for visiting my digital space! Let's build the future together. 🚀_**
 
 ---
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/anindyamaity/count.svg" alt="Visitor Count" />
-</div>
