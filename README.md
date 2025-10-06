@@ -104,14 +104,14 @@
 
 ## 📊 GitHub Stats
 
-![Anindya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anindyamaity&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anindyamaity&layout=compact&theme=radical)
+![Anindya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anindyamaity1&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anindyamaity1&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Profile Trophy
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=anindyamaity&theme=radical&column=7)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=anindyamaity1&theme=radical&column=7)
 
 ---
 
