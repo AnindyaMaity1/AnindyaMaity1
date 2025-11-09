@@ -48,6 +48,7 @@
 
 ### 🎓 Certifications & Achievements
 - 🥇 1st Place in Scholarly Thesis (3MST) at eHaCON 2025
+- 🥇 Finalist — CODEX 2.0 National Hackathon.
 - 🧠 Completed AI and Python certifications from LinkedIn Learning and NPTEL
 - 🧾 Certified in:
 
