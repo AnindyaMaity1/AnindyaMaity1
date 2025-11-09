@@ -26,7 +26,7 @@
 
 - 📫 How to reach me: [👉 Click](mailto:anindyamaity2004@gmail.com)
 - 📄 Explore My [RESUME](https://drive.google.com/file/d/1vZUldNMKYTDbJcapcxIeS8u1nxjNxgRm/view?usp=sharing)
-- 🌐 Visit My Portfolio: [Soon]
+- 🌐 Visit My Portfolio: [👉 View](https://anindyamaity.netlify.app)
 
 ---
 
