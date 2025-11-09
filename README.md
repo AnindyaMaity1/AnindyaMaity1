@@ -10,7 +10,7 @@
 ### 🙋‍♂️ About Me
 
 - Currently Building: **Hardwork**
-- Experimenting with: 🤖 AI Agents • 🎙️ Voice Interfaces • 📊 Realtime Flask Dashboards • 🌐 Interactive Web UIs • 🎨 Creative Web Animations.
+- Experimenting with: 🤖 AI Agents • 🎙️ Voice Interfaces • 📊 Realtime Flask Dashboards • 🌐 Interactive Web UIs.
 - Learning: 🧪 Flask • 🧠 Prompt Engineering • 🔗 WebSockets • 🔒 Secure APIs • 🐳 Docker • 🌿 Spring.
 - Ask me about:
   
