@@ -54,9 +54,9 @@
 
 | Topic                             | Certificates                |
 |----------------------------------|-----------------------------|
-| ✔️ IBM Machine Learning & AI Engineering | [👉 Click](#)           |
-| ✔️ Microsoft Azure Cloud Fundamentals   | [👉 Click](#)           |
-| ✔️ Google Data Analytics                | [👉 Click](#)           |
+| ✔️ IBM Machine Learning Engineering | [👉 Click](https://drive.google.com/file/d/15_HyK3vH32DlIchAVP26-_neyBXJAAiC/view?usp=sharing)           |
+| ✔️ Microsoft Azure Cloud Services   | [👉 Click](https://drive.google.com/file/d/1FxnmI9lWYFR7ntNFANKgIl-QNOdlmw2T/view?usp=sharing)           |
+| ✔️ IBM Data Analytics                | [👉 Click](https://drive.google.com/file/d/1NYBWyCr-uOc3CXdVgh5cbch1ojPP4Zwi/view?usp=sharing)           |
 
 - 🧩 Solved 100+ LeetCode problems, showcasing strong DSA & problem-solving skills
 - 🏛️ Participated in Google Developer Group (GDG) and TCS workshops at IIT Kharagpur
