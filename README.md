@@ -105,7 +105,7 @@
 
 ## 📊 GitHub Stats
 
-![Anindya's GitHub stats](https://github-readme-streak-stats-eight.vercel.app/?user=anindyamaity1&theme=red-navy&hide_border=false&&height=180&width=350)
+![Anindya's GitHub stats](https://github-readme-streak-stats-eight.vercel.app/?user=anindyamaity1&theme=red-navy&hide_border=false&height=180&width=350)
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anindyamaity1&layout=compact&theme=blue_navy&height=180&width=350)
 
 ---
