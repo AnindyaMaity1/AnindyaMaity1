@@ -120,6 +120,7 @@
 
 ![Anindya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anindyamaity1&theme=react-dark)
 
+
 ---
 
 ### 💡 Quote of the Day
