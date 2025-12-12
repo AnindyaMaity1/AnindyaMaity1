@@ -112,7 +112,7 @@
 
 ## 🏆 GitHub Profile Trophy
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=anindyamaity1&theme=radical&column=7)
+![GitHub Trophy](https://githubtrophyapi.vercel.app/?username=anindyamaity1&theme=radical)
 
 ---
 
