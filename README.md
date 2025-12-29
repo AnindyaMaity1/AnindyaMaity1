@@ -55,6 +55,7 @@
 | Topic                             | Certificates                |
 |----------------------------------|-----------------------------|
 | ✔️ IBM Machine Learning Engineering | [👉 Click](https://drive.google.com/file/d/15_HyK3vH32DlIchAVP26-_neyBXJAAiC/view?usp=sharing)           |
+| ✔️ IBM Artificial Intelligence Engineering | [👉 Click](https://drive.google.com/file/d/1ZiHxM7Tfi-8RmI-MlgeyH7SZ5QnbZ9c8/view?usp=sharing)           |
 | ✔️ Microsoft Azure Cloud Services   | [👉 Click](https://drive.google.com/file/d/1FxnmI9lWYFR7ntNFANKgIl-QNOdlmw2T/view?usp=sharing)           |
 | ✔️ IBM Data Analytics                | [👉 Click](https://drive.google.com/file/d/1NYBWyCr-uOc3CXdVgh5cbch1ojPP4Zwi/view?usp=sharing)           |
 
