@@ -126,11 +126,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMaity&theme=minimal&bg_color=ffffff&color=6A0DAD&line=8A2BE2&point=4B0082&hide_border=true"
-    width="90%"
-    alt="GitHub Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMaity&theme=react-dark&bg_color=0A0F2B&color=8A2BE2&line=9400D3&point=C77DFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
   />
 </p>
+
 
 
 ---
