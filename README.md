@@ -146,6 +146,14 @@
 
 ---
 
+
+## 🏆 GitHub Achievements
+
+| GitHub Trophy | Another Achievement |
+|---------------|-------------------|
+| <img src="https://githubtrophyapi.vercel.app/?username=anindyamaity1&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophy" width="100%" /> | <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Achievement Image" width="100%" /> |
+
+
 ## GitHub Activity Graph
 
 <p align="center">
