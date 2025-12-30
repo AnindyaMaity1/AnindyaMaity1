@@ -138,7 +138,7 @@
     <img
       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
       alt="Readme Quotes"
-      width="950"
+      width="100%"
     />
   </a>
 </p>
