@@ -131,8 +131,6 @@
 
 ### 💡 Quote of the Day
 
----
-
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img
