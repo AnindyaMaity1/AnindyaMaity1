@@ -1,11 +1,16 @@
-<h1 align="center"><span style="color:#00BFFF;">Anindya Maity</span> 👨‍💻 </h1>
-<h3 align="center"> Web Developer | AI Explorer | ML Enthusiast | Tech Innovator</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Profile Banner" />
+</p>
+
+<h1 align="center"><span style="color:#00BFFF;">Anindya Maity</span></h1>
+<h3 align="center">Web Developer | AI Explorer | ML Enthusiast | Tech Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Welcome+to+My+Digital+Space!;Building+Future+Tech+Today" alt="Typing SVG" />
 </p>
 
 ---
+
 
 ### 🙋‍♂️ About Me
 
