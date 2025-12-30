@@ -114,13 +114,28 @@
 ![Anindya's GitHub stats](https://github-readme-streak-stats-eight.vercel.app/?user=anindyamaity1&theme=tokyonight&hide_border=false)
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anindyamaity1&layout=compact&theme=dark)
 
-<p align="center">
+<div align="center">
 
-| 🔥 GitHub Streak Stats | 🌐 Top Languages |
-|----------------------|------------------|
-| <img src="https://github-readme-streak-stats-eight.vercel.app/?user=anindyamaity1&theme=tokyonight&hide_border=false" width="100%" /> | <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anindyamaity1&layout=compact&theme=dark" width="100%" /> |
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=anindyamaity1&theme=tokyonight&hide_border=false"
+        alt="GitHub Streak Stats"
+        width="420"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anindyamaity1&layout=compact&theme=dark"
+        alt="Top Languages"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
-</p>
+</div>
 
 ---
 
