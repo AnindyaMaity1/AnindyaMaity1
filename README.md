@@ -129,7 +129,7 @@
       <img
         src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anindyamaity1&layout=compact&theme=dark"
         alt="Top Languages."
-        width="540"
+        width="500"
       />
     </td>
   </tr>
