@@ -126,12 +126,7 @@
 
 | 🏆 GitHub Profile Trophy | ⏱️ GitHub Productivity Time |
 |--------------------------|-----------------------------|
-| <img src="https://githubtrophyapi.vercel.app/?username=anindyamaity1&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophy" /> | <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anindyamaity1&theme=algolia"
-  alt="GitHub Productive Time"
-  height="220"
-/>
- |
+| <img src="https://githubtrophyapi.vercel.app/?username=anindyamaity1&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophy" /> | <img src="https://github profile-summary-cards.vercel.app/api/cards/productive-time?username=anindyamaity1&theme=algolia" alt="GitHub Productive Time" height="220"/>|
 
 ---
 
