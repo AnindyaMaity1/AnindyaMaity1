@@ -116,11 +116,24 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=anindyamaity1&theme=tokyonight&hide_border=false"
+    alt="Anindya's GitHub Streak Stats"
+    width="100%"
+  />
+</p>
 
-![GitHub Trophy](https://githubtrophyapi.vercel.app/?username=anindyamaity1&theme=radical)
+<p align="center">
+  <img
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anindyamaity1&layout=compact&theme=dark"
+    alt="Top Languages"
+    width="100%"
+  />
+</p>
 
 ---
+
 
 ## 🏆 GitHub Achievements & Productivity
 
