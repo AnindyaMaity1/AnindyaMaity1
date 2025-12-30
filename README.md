@@ -114,11 +114,12 @@
 
 | Top Languages | GitHub Stats |
 |---------------|--------------|
-| <img src="https://github-readme-stats.encryptedtouhid.vercel.app/api/top-langs/?username=anindyamaity1&layout=donut&theme=radical" width="100%" /> | <img src="https://github-readme-stats.encryptedtouhid.vercel.app/api?username=anindyamaity1&show_icons=true&theme=radical" width="100%" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindyamaity1&layout=donut&theme=radical" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api?username=anindyamaity1&show_icons=true&theme=radical" width="100%" /> |
 
 | Repo Activity | Commits Graph |
 |---------------|---------------|
-| <img src="https://myreadme.vercel.app/api/embed/anindyamaity1?panels=toprepositories" width="100%" /> | <img src="https://myreadme.vercel.app/api/embed/anindyamaity1?panels=commitgraph" width="100%" /> |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=anindyamaity1&repo=YOUR_TOP_REPO&theme=radical" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api?username=anindyamaity1&count_private=true&theme=radical&show_icons=true&hide_title=false&include_all_commits=true&hide=prs" width="100%" /> |
+
 
 ---
 
