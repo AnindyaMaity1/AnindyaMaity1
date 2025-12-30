@@ -126,7 +126,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMaity&theme=react-dark&bg_color=0A0F2B&color=8A2BE2&line=9400D3&point=C77DFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMaity1&theme=react-dark&bg_color=0A0F2B&color=8A2BE2&line=9400D3&point=C77DFF&area=true&hide_border=true"
     width="100%"
     alt="GitHub Activity Graph"
   />
