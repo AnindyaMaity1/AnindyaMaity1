@@ -122,7 +122,7 @@
       <img
         src="https://github-readme-streak-stats-eight.vercel.app/?user=anindyamaity1&theme=tokyonight&hide_border=false"
         alt="GitHub Streak Stats"
-        width="580"
+        width="560"
       />
     </td>
     <td>
