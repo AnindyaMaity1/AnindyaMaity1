@@ -140,9 +140,9 @@
 
 ## 🏆 GitHub Achievements
 
-| GitHub Profile Trophy |
-|--------------------------|-----------------------------|
-| <img src="https://githubtrophyapi.vercel.app/?username=anindyamaity1&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophy" width="100%"  /> |
+| GitHub Trophy |
+|---------------|
+| <img src="https://githubtrophyapi.vercel.app/?username=anindyamaity1&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophy" width="100%" /> |
 
 ---
 
