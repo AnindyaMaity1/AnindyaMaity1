@@ -122,14 +122,16 @@
       <img
         src="https://github-readme-streak-stats-eight.vercel.app/?user=anindyamaity1&theme=tokyonight&hide_border=false"
         alt="GitHub Streak Stats"
-        width="420"
+        width="440"
+        height="240"
       />
     </td>
     <td>
       <img
         src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anindyamaity1&layout=compact&theme=dark"
-        alt="Top Languages"
-        width="420"
+        alt="Top Languages."
+        width="440"
+        height="240"
       />
     </td>
   </tr>
