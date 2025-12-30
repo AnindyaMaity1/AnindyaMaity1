@@ -112,13 +112,13 @@
 
 ## 📊 GitHub Stats
 
-| Top Languages by Repo | Top Languages by Commit |
-|----------------------|------------------------|
-| <img src="https://github-readme-summary-cards.vercel.app/api/cards/repos-per-language?username=anindyamaity1&theme=algolia" alt="Top Languages by Repo" width="100%" /> | <img src="https://github-readme-summary-cards.vercel.app/api/cards/most-commit-language?username=anindyamaity1&theme=algolia" alt="Top Languages by Commit" width="100%" /> |
+| Top Languages | GitHub Stats |
+|---------------|--------------|
+| <img src="https://github-readme-stats.encryptedtouhid.vercel.app/api/top-langs/?username=anindyamaity1&layout=donut&theme=radical" width="100%" /> | <img src="https://github-readme-stats.encryptedtouhid.vercel.app/api?username=anindyamaity1&show_icons=true&theme=radical" width="100%" /> |
 
-| Stats | Commits (UTC +0.00) |
-|-------|--------------------|
-| <img src="https://github-readme-summary-cards.vercel.app/api/cards/stats?username=anindyamaity1&theme=algolia" alt="Stats" width="100%" /> | <img src="https://github-readme-summary-cards.vercel.app/api/cards/productive-time?username=anindyamaity1&theme=algolia" alt="Commits" width="100%" /> |
+| Repo Activity | Commits Graph |
+|---------------|---------------|
+| <img src="https://myreadme.vercel.app/api/embed/anindyamaity1?panels=toprepositories" width="100%" /> | <img src="https://myreadme.vercel.app/api/embed/anindyamaity1?panels=commitgraph" width="100%" /> |
 
 ---
 
