@@ -134,12 +134,15 @@
 ---
 
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-    alt="Readme Quote"
-    width="850"
-  />
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+      alt="Readme Quotes"
+      width="950"
+    />
+  </a>
 </p>
+
 
 ---
 
