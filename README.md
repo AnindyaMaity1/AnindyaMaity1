@@ -133,9 +133,16 @@
 
 ---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Readme Quote"
+    width="850"
+  />
+</p>
 
 ---
+
 <p align="center">
   <b><i>Architecting the future with code, intelligence, and decentralized thinking.</i></b>
 </p>
