@@ -110,20 +110,6 @@
 ---
 
 
-## 📊 GitHub Stats
-
-| Top Languages by Repo | Top Languages by Commit |
-|-----------------------|-------------------------|
-| <img src="https://github.com-readme-stats.vercel.app/api/cards/repos-per-language?username=anindyamaity1&theme=algolia" width="100%" /> | <img src="https://github.com-readme-stats.vercel.app/api/cards/most-commit-language?username=anindyamaity1&theme=algolia" width="100%" /> |
-
-| Stats | Commits (UTC +0.00) |
-|-------|--------------------|
-| <img src="https://github.com-readme-stats.vercel.app/api/cards/stats?username=anindyamaity1&theme=algolia" width="100%" /> | <img src="https://camo.githubusercontent.com/683e18324100d404f8882c66f34e2afd1bbf7aca1fae46a822af610a1fe73f9f/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f647563746976652d74696d653f757365726e616d653d4372617a4172333734267468656d653d616c676f6c6961" width="100%" /> |
-
-
-
----
-
 ## On-Chain Contribution Stats
 
 <div align="center">
