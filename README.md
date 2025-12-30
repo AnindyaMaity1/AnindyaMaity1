@@ -124,13 +124,19 @@
 
 ## GitHub Activity Graph
 
-![Anindya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anindyamaity1&theme=react-dark)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMaity&theme=minimal&bg_color=ffffff&color=6A0DAD&line=8A2BE2&point=4B0082&hide_border=true"
+    width="90%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
 
 
 ---
 
 ### 💡 Quote of the Day
-!
+
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img
