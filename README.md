@@ -151,26 +151,18 @@
 
 <h2 align="center">📊 Activity Graphs</h2>
 
-<!-- A. GitHub Contribution Snake -->
-<h3> A. GitHub Contribution Snake</h3>
+
+<!-- A. 3D GitHub Contribution Graph -->
+<h3>A. 3D GitHub Contribution Graph</h3>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AnindyaMaity1/AnindyaMaity1/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AnindyaMaity1/AnindyaMaity1/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/AnindyaMaity1/AnindyaMaity1/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=AnindyaMaity1&style=purple&animate=true"
+    alt="3D GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
+
 
 <!-- B. GitHub Contribution Streak -->
 <h3> B. GitHub Contribution Streak</h3>
