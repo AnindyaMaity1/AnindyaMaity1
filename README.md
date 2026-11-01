@@ -146,15 +146,54 @@
 
 ---
 
-## GitHub Activity Graph
+
+<!-- ==================== ACTIVITY GRAPHS ==================== -->
+
+<h2 align="center">📊 Activity Graphs</h2>
+
+<!-- A. GitHub Contribution Snake -->
+<h3> A. GitHub Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AnindyaMaity1/AnindyaMaity1/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AnindyaMaity1/AnindyaMaity1/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/AnindyaMaity1/AnindyaMaity1/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<!-- B. GitHub Contribution Streak -->
+<h3> B. GitHub Contribution Streak</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnindyaMaity1&theme=react-dark&bg_color=0A0F2B&color=8A2BE2&line=9400D3&point=C77DFF&area=true&hide_border=true"
+    src="https://streak-stats.demolab.com?user=AnindyaMaity1&theme=tokyonight&hide_border=true&background=0A0F2B"
+    alt="GitHub Streak Stats"
     width="100%"
-    alt="GitHub Activity Graph"
   />
 </p>
+
+<!-- C. GitHub Profile Summary -->
+<h3> C. GitHub Activity Summary</h3>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnindyaMaity1&theme=tokyonight"
+    alt="GitHub Profile Summary"
+    width="100%"
+  />
+</p>
+
 
 ---
 
