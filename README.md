@@ -152,20 +152,8 @@
 <h2 align="center">📊 Activity Graphs</h2>
 
 
-<!-- A. 3D GitHub Contribution Graph -->
-<h3>A. 3D GitHub Contribution Graph</h3>
-
-<p align="center">
-  <img
-    src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=AnindyaMaity1&style=purple&animate=true"
-    alt="3D GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
-
-
-<!-- B. GitHub Contribution Streak -->
-<h3> B. GitHub Contribution Streak</h3>
+<!-- A. GitHub Contribution Streak -->
+<h3> A. GitHub Contribution Streak</h3>
 
 <p align="center">
   <img
@@ -175,8 +163,8 @@
   />
 </p>
 
-<!-- C. GitHub Profile Summary -->
-<h3> C. GitHub Activity Summary</h3>
+<!-- B. GitHub Profile Summary -->
+<h3> B. GitHub Activity Summary</h3>
 
 <p align="center">
   <img
