@@ -152,17 +152,6 @@
 <h2 align="center">📊 Activity Graphs</h2>
 
 
-<!-- A. GitHub Contribution Streak -->
-<h3> A. GitHub Contribution Streak</h3>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AnindyaMaity1&theme=tokyonight&hide_border=true&background=0A0F2B"
-    alt="GitHub Streak Stats"
-    width="100%"
-  />
-</p>
-
 <!-- B. GitHub Profile Summary -->
 <h3> B. GitHub Activity Summary</h3>
 
